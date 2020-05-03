@@ -19,6 +19,6 @@ Maybe you don't like navigating to the FiveM `cache` folder all the time? Maybe 
 
 **Step 2:** Place `FiveM-BEA.exe` in that folder.
 
-**Step 3:** Right click on the batch file to create a Shortcut to place on your Desktop, Start Menu, or Taskbar.
+**Step 3:** Right click on the `FiveM-BEA.exe` file to create a Shortcut to place on your Desktop, Start Menu, or Taskbar.
 
 **Step 4:** Run **FiveM-BEA** from your shortcut whenever you want to make sure you have the latest and greatest assets, and don't mind waiting a few extra minutes while logging into your favorite server for the assets to redownload. Otherwise, if the server you play on rarely does updates, or you aren't a developer, just launch your FiveM from its regular shortcut.
