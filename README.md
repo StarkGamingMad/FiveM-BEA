@@ -7,6 +7,9 @@ When a server on FiveM updates its assets, like vehicles, it is required that yo
 ## Why do I need FiveM-BEA?
 Maybe you don't like navigating to the FiveM `cache` folder all the time? Maybe you often miss server announcements regarding new assets and keep missing out?! **_Maybe you are a developer that keeps uploading new assets, restarting the server, and wondering why your new assets aren't working because you, AGAIN, forgot to clear your FiveM cache?!!!_** If any of that sounds familiar, proceed to installation...
 
+## Download
+  * Latest version: https://github.com/StarkGamingMad/FiveM-BEA/releases/latest
+
 ## Installation Instructions
 **Step 1:** Navigate to your FiveM Application Location:
   * Usually found in: `C:\Users\USERNAME\AppData\Local\FiveM`. _Be sure to replace "USERNAME" with your username._
