@@ -9,7 +9,6 @@ Maybe you don't like navigating to the FiveM `cache` folder all the time? Maybe 
 
 ## Download
   * Latest version: https://github.com/StarkGamingMad/FiveM-BEA/releases/latest
-  * Source code: https://github.com/StarkGamingMad/FiveM-BEA
 
 ## Installation Instructions
 **Step 1:** Navigate to your FiveM Application Location:
